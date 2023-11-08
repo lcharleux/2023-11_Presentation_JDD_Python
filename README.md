@@ -102,4 +102,6 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 - [ ] General Python Introduction ?
 
 
+## RESSOURCES
 
+* Positron repo: https://symmehub.github.io/positron/intro.html
