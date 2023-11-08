@@ -32,6 +32,7 @@ The prerequisites of the module are minimal:
 - Install the following software programs:
   - Anaconda: https://www.anaconda.com/products/distribution
   - Visual Studio Code: https://code.visualstudio.com/
+  - GIT: https://git-scm.com/
 
 ## SKILLS
 
